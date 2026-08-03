@@ -1,0 +1,9 @@
+config.txt
+version.txt
+.codehash
+history/
+__pycache__/
+data/
+*.log
+*.pyc
+*.vbs
